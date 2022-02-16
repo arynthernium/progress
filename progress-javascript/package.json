@@ -1,0 +1,25 @@
+{
+  "name": "progress",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "A progress bar for the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arynthernium/progress.git"
+  },
+  "keywords": [
+    "progressbar",
+    "cli",
+    "display"
+  ],
+  "author": "arynthernium",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/arynthernium/progress/issues"
+  },
+  "homepage": "https://github.com/arynthernium/progress#readme"
+}
